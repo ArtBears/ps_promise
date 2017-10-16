@@ -1,0 +1,10 @@
+{
+  "name": "ps_promise",
+  "version": "0.0.1",
+  "repository": "https://github.com/ArtBears/ps_promise",
+  "dependencies": {
+    "paperspace-node": "^0.1.3"
+  },
+  "author": "Glyne Gittens",
+  "license": "ISC"
+}
