@@ -14,7 +14,7 @@ The main difference is the use of promises instead of async callbacks.
 ps.machines.create(test_machine)
   .then(
     (resp) => {
-        console.log(resp.body);
+        console.log(resp);
     }
   )
   .catch(
