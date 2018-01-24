@@ -4,7 +4,11 @@
   "repository": "https://github.com/ArtBears/ps_promise",
   "main": "index.js",
   "dependencies": {
-    "paperspace-node": "Paperspace/paperspace-node#v0.1.5_work"
+    "paperspace-node": "^0.1.7"
+  },
+  "engines": {
+    "node": ">=8.9.3",
+    "npm": ">=5.5.1"
   },
   "author": "Glyne Gittens",
   "license": "ISC"
