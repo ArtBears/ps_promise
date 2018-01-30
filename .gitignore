@@ -4,3 +4,4 @@ package-lock.json
 calls.js
 test/
 .ps_project/
+fast-style-transfer/
